@@ -52,14 +52,14 @@ python "Morgan Calculator.py"
 ---
 ## Estructura del proyecto
 
-Morgan-Calculator  
-│  
-├── Morgan Calculator.py → Código principal de la aplicación  
-├── click.wav → Sonido utilizado al presionar botones  
-├── Morgan.png → Ícono de la aplicación  
-├── Morgancapt.png → Captura de pantalla del programa  
-├── README.md → Documentación del proyecto  
-└── LICENSE → Licencia del proyecto
+| Archivo | Descripción |
+|---------|-------------|
+| `Morgan Calculator.py` | Código principal de la aplicación |
+| `click.wav` | Sonido utilizado al calcular |
+| `Morgan.png` | Ícono de la aplicación |
+| `Morgancapt.png` | Captura de pantalla del programa |
+| `README.md` | Documentación del proyecto |
+
 ---
 
 ## Detalles técnicos
@@ -73,6 +73,9 @@ La estructura del proyecto separa los recursos visuales y de audio del archivo p
 ---
 
 ## Autor
-**David Fernando Solano Garcia** - Analista de Datos & QA Junior
 
-LinkedIn: https://www.linkedin.com/in/david-fernando-solano-garcia-840230348
+**David Fernando Solano Garcia**  
+Analista de Datos & QA Junior  
+
+LinkedIn:  
+https://www.linkedin.com/in/david-fernando-solano-garcia-840230348
