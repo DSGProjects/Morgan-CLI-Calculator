@@ -1,10 +1,10 @@
-# 🧮 Morgan Calculator
+# Morgan Calculator
 
 Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y sonido con Pygame. Incluye ícono personalizado.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Python** → Lenguaje principal
 - **Tkinter** → Interfaz gráfica
@@ -12,7 +12,7 @@ Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y
 
 ---
 
-## ✨ Características
+## Características
 
 - Operaciones básicas: suma, resta, multiplicación y división
 - Sonido al calcular resultado
@@ -21,13 +21,13 @@ Calculadora de escritorio construida con Python, interfaz gráfica con Tkinter y
 
 ---
 
-## 📸 Captura
+## Captura
 
 ![Morgan Calculator](Morgancapt.png)
 
 ---
 
-## 🚀 Cómo correr el proyecto
+## Cómo correr el proyecto
 
 ```bash
 pip install pygame
@@ -36,7 +36,7 @@ python "Morgan Calculator.py"
 
 ---
 
-## 📁 Archivos
+## Archivos
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -47,6 +47,7 @@ python "Morgan Calculator.py"
 
 ---
 
-## 👨‍💻 Autor
-**David Fernando Solano Garcia** - Analista de Datos & QA Junior  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/david-fernando-solano-garcia-840230348)
+## Autor
+**David Fernando Solano Garcia** - Analista de Datos & QA Junior
+
+LinkedIn: https://www.linkedin.com/in/david-fernando-solano-garcia-840230348
